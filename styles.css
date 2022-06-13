@@ -1,0 +1,19 @@
+
+.middle {
+    
+    height: 200px;
+    width: 200px;
+}
+.middle {
+    display: flex;
+}
+.bottom {
+    display: flex;
+    justify-content: space-around;
+}
+
+.home{
+display:flex;
+    justify-content: space-around;
+}
+img {border:10px dotted yellow;}
